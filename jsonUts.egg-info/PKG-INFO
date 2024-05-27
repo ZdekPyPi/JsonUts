@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: jsonUts
+Version: 1.0.3
+Summary: Json package
+Home-page: 
+Author: Melque Lima
+Author-email: melque_ex@yahoo.com.br
+License: MIT
+Keywords: jsonUts
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+
 # Json Uts
 #
 ### Installation
@@ -53,3 +70,11 @@ json_again_original  = jsonO.toJson(original_keys=True) # if you want your origi
 ```py
 '2022-05-25'
 ```
+
+
+Change Log
+==========
+
+0.0.1 (2024-04-19)
+------------------
+- First Release
